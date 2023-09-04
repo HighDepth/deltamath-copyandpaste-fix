@@ -82,9 +82,6 @@ Copy equations from Deltamath to clipboard without encryption.
 
 Using this extension, you can extract and copy equations/expressions from Deltamath to your clipboard without it being encrypted.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
