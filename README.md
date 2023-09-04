@@ -21,14 +21,6 @@ Copy equations from Deltamath to clipboard without encryption.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -124,7 +116,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
