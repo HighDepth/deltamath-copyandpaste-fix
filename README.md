@@ -34,13 +34,13 @@ Copy equations from Deltamath to clipboard without encryption.
 <br />
 <div align="center">
   <a href="(https://github.com/HighDepth/deltamath-copyandpaste-fix)">
-    <img src="images/dmf_icon1.png" alt="Logo" width="128" height="128">
+    <img src="images/dmf_icon3.png" alt="Logo" width="128" height="128">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Deltamath Copy and Paste Fix</h3>
 
   <p align="center">
-    project_description
+    Copy equations from Deltamath to clipboard without encryption.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -80,7 +80,7 @@ Copy equations from Deltamath to clipboard without encryption.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Copy equations from Deltamath to clipboard without encryption.
+Using this extension, you can extract and copy equations/expressions from Deltamath to your clipboard without it being encrypted.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
